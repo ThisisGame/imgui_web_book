@@ -18,5 +18,7 @@
 
 ![](../../imgs/imgui/font_blur/with_freetype.jpg)
 
+看着其实效果不是很好，最后发现应该是Windows系统的字体缩放导致的，Win系统将字体放大到了125%，ctrl+鼠标滚轮将网页缩小到80%后，效果就和exe一致清晰了。
+
 
 
