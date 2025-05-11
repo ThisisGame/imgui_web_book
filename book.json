@@ -33,17 +33,17 @@
             "bookName":"ImGui-WebAssembly",
             "codeResourcesDownloadUrl":"https://github.com/ThisisGame/imgui_web_book",
             "githubRepositoryUrl":"https://github.com/ThisisGame/imgui_web_book",
-            "beginNotice":"\n```text \n「UE千问」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/imgui_web_book \n```",
+            "beginNotice":"\n```text \n「ImGui Web」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/imgui_web_book \n```",
             "beginNoticeShowConditionNeedLineNum":10,
-            "antiCollectorAdTxt":"<a id=\"antiCollectorAdTxt\" href=\"https://github.com/ThisisGame/imgui_web_book\">「UE千问」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/imgui_web_book</a>"
+            "antiCollectorAdTxt":"<a id=\"antiCollectorAdTxt\" href=\"https://github.com/ThisisGame/imgui_web_book\">「ImGui Web」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/imgui_web_book</a>"
         },
         "en":{
             "bookName":"ImGui-WebAssembly",
             "codeResourcesDownloadUrl":"https://github.com/ThisisGame/imgui_web_book",
             "githubRepositoryUrl":"https://github.com/ThisisGame/imgui_web_book",
-            "beginNotice":"\n```text \n「UE千问」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/imgui_web_book \n```",
+            "beginNotice":"\n```text \n「ImGui Web」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/imgui_web_book \n```",
             "beginNoticeShowConditionNeedLineNum":10,
-            "antiCollectorAdTxt":"<a id=\"antiCollectorAdTxt\" href=\"https://github.com/ThisisGame/imgui_web_book\">「UE千问」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/imgui_web_book</a>"
+            "antiCollectorAdTxt":"<a id=\"antiCollectorAdTxt\" href=\"https://github.com/ThisisGame/imgui_web_book\">「ImGui Web」是一本开源电子书，PDF/随书代码/资源下载： https://github.com/ThisisGame/imgui_web_book</a>"
         }
         
     }
